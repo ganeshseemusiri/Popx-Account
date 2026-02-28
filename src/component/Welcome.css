@@ -1,0 +1,27 @@
+.login-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+}
+.create-btn-container{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.button-create{
+    border-radius: 8px;
+    color: white;
+    background: linear-gradient(to right, #6c25ff, #8f45ff);
+    border: none;
+    height: 40px;
+}
+.button-login{
+    border-radius: 8px;
+    color: black;
+    background: rgb(162, 62, 233);
+    border: none;
+    height: 40px;
+    background: #e0d7ff;
+}
