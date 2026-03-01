@@ -5,10 +5,11 @@ function Home() {
     <div className="home-container">
       <div className="home-card">
         <h2 className="heading">Account Settings</h2>
-       <div className="profile-bg-container">
+       <div className="profile-first-div">
+        <div className="profile-bg-container">
          <div className="profile-container">
           <img className="profile"
-            src="https://randomuser.me/api/portraits/women/44.jpg"
+            src="https://randomuser.me/api/portraits/men/47.jpg"
             alt="profile"
           />
           <div>
@@ -23,6 +24,10 @@ function Home() {
         </p>
         <hr  class="dotted-line"/>
       </div>
+      <div>
+        <hr  class="dotted-line2"/>
+      </div>
+       </div>
       
        </div>
        
