@@ -25,7 +25,7 @@ function Login() {
         </div>
         <div className="input-group">
           <label className="input-label">Password</label>
-          <input className="login-input" type="password" placeholder="Enter email address" required/>
+          <input className="login-input" type="password" placeholder="Password" required/>
         </div>
         </div>
 
